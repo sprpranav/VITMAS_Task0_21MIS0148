@@ -13,6 +13,12 @@ The git status command is used to display the state of the repository and stagin
 The git push command is used to upload local repository content to a remote repository. 
 ## 7) git pull
 The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
-
-
+## 8) git reset
+The git reset is a powerful command that is used to undo local changes to the state of a Git repo.
+## 9) git branch
+The git branch command allows you to create, list, rename and delete branches.
+## 10) git merge
+Git merge will combine multiple sequences of commits into one unified history. In the most frequent use cases, git merge is used to combine two branches.
+## 11) git checkout
+The git checkout command lets you navigate between the branches created by git branch .
 
