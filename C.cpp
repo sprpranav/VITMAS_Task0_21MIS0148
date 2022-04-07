@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-//Q.15) 
-=======
+
 //Q.22) 
->>>>>>> 2ca8f185f6bffdc0d9ea18b75f80a7b8827cb59b
 /*#include<stdio.h>
 int main()
 {
