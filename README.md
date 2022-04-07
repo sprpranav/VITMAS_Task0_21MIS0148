@@ -21,4 +21,5 @@ The git branch command allows you to create, list, rename and delete branches.
 Git merge will combine multiple sequences of commits into one unified history. In the most frequent use cases, git merge is used to combine two branches.
 ## 11) git checkout
 The git checkout command lets you navigate between the branches created by git branch .
-
+## 12) git rm
+The git rm command can be used to remove individual files or a collection of files.
