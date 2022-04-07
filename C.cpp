@@ -1,4 +1,4 @@
-//Q.10) 
+//Q.15) 
 /*#include<stdio.h>
 int main()
 {
