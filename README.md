@@ -32,14 +32,15 @@ The git checkout command is used to switch between branches in a repository.
 ## git merge branchname
 The "merge" command is used to integrate changes from another branch.
 
-## [Youtube Link](https://youtu.be/sa0OJ0xctAg)
-
 ## git branch -D branchname
 It will delete the branch even if it has not been merged into the branch you're currently in. -d however, will warn you and won't delete the branch until its been merged.
 
 ## git push origin --delete branchname
 To delete a remote branch, you can’t use the git branch -D command. Instead, use the git push command with --delete flag, followed by the name of the branch you want to delete.
 
+
+## [Youtube Link](https://youtu.be/sa0OJ0xctAg)
+## ![Markdown Cheat sheet](https://user-images.githubusercontent.com/103058671/162576300-4182e60d-5ba3-4731-ad31-e15eb9bf7c62.png)
 
 
 
