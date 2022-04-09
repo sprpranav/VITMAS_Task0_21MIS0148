@@ -32,6 +32,8 @@ The git checkout command is used to switch between branches in a repository.
 ## git merge branchname
 The "merge" command is used to integrate changes from another branch.
 
+## [Youtube Link](https://youtu.be/sa0OJ0xctAg)
+
 ## git branch -D branchname
 It will delete the branch even if it has not been merged into the branch you're currently in. -d however, will warn you and won't delete the branch until its been merged.
 
